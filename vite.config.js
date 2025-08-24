@@ -4,4 +4,5 @@ import svgr from 'vite-plugin-svgr';
 
 export default defineConfig({
   plugins: [react(), svgr()],
+  base: '/LoopBox/', // wichtig für GitHub Pages, Repo-Name einsetzen
 });
