@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ebene_1" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 80">
+  <circle cx="50" cy="40" r="7.5" stroke-width="0"/>
+  <circle cx="50" cy="40" r="25" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="7"/>
+  <path d="M50,15c20.55,0,29.45-30,50-30" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="7"/>
+</svg>

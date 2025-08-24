@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ebene_1" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" width="25" height="20" viewBox="0 0 25 20">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: 2.48px;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-linejoin: round;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke: #e8e5df;
+        stroke-linecap: round;
+      }
+
+      .cls-2 {
+        stroke-width: 2.48px;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke-miterlimit: 10;
+        stroke-width: 2.5px;
+      }
+    </style>
+  </defs>
+  <path class="cls-3" d="M15.32,16.44c-3.56,2.05-8.1.83-10.16-2.72s-.83-8.1,2.72-10.16,8.1-.83,10.16,2.72"/>
+  <polygon class="cls-1" points="18.05 6.28 20.9 11.22 15.06 7.98 18.05 6.28"/>
+  <polygon class="cls-2" points="18.05 6.28 20.9 11.22 21.01 4.54 18.05 6.28"/>
+</svg>

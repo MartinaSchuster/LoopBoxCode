@@ -1,0 +1,13 @@
+.tool-container10 {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  background-color: var(--dl-color-base-basis);
+}
+ 
+@media(max-width: 479px) {
+  .tool-container10 {
+    order: 2;
+  }
+}

@@ -1,0 +1,9 @@
+.projekte-container1 {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  background-color: var(--dl-color-base-basis);
+}
+ 
